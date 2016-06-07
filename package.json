@@ -13,6 +13,10 @@
     "legacy",
 		"linter"
 	],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/renmm/eslint-config-rmm-es5"
+  },
 	"author": "renmaomin@126.com",
 	"license": "MIT",
 	"devDependencies": {
