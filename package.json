@@ -1,0 +1,27 @@
+{
+	"name": "eslint-config-rmm-es5",
+	"version": "1.0.0",
+	"description": "eslint config ECMAScript5",
+	"main": "index.js",
+	"scripts": {
+		"test": "mocha test/rules/"
+	},
+	"keywords": [
+		"eslint",
+		"config",
+		"es5",
+    "legacy",
+		"linter"
+	],
+	"author": "renmaomin@126.com",
+	"license": "MIT",
+	"devDependencies": {
+		"chai": "^3.5.0",
+		"eslint-plugin-import": "^1.8.1",
+		"mocha": "^2.5.3"
+	},
+	"peerDependencies": {
+		"eslint": "^2.9.0",
+		"eslint-plugin-import": "^1.8.1"
+	}
+}

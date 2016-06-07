@@ -1,0 +1,18 @@
+# http://editorconfig.org
+# 最顶层的配置文件,项目下的文件都按此配置来
+root = true
+
+[*]
+charset = utf-8
+indent_style = space
+indent_size = 2
+
+# 统一换行符 (win用cr lf，linux/unix用lf，mac用cr)
+# https://github.com/cssmagic/blog/issues/22
+end_of_line = lf
+
+# 文件末尾保留一行空行
+insert_final_newline = true
+
+# 除去换行行首的任意空白字符
+trim_trailing_whitespace = true

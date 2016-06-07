@@ -1,0 +1,6 @@
+{
+  "extends": ["./index.js","./node.js"],
+  "rules":{
+    "no-magic-numbers": 0
+  }
+}
