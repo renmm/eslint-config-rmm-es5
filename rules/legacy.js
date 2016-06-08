@@ -6,10 +6,10 @@ module.exports = {
 
     // 要求对象字面量属性名称用引号括起来
     // http://eslint.cn/docs/rules/quote-props
-    'quote-props': [2, 'always'],
+    'quote-props': [2, 'consistent'],
 
     // 禁止或强化末尾逗号
     // http://eslint.cn/docs/rules/comma-dangle
-    'comma-dangle': [2, 'never'],
+    'comma-dangle': [2, 'never']
   }
 };
