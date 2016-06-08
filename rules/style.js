@@ -40,7 +40,9 @@ module.exports = {
         'String': 'string',
         'Number': 'number',
         'Boolean': 'boolean',
-        'object': 'Object'
+        'object': 'Object',
+        'function': 'Function',
+        'array': 'Array'
       }
     }],
 
